@@ -1,0 +1,20 @@
+{
+    "name": "Blueprint2019",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "RCz00",
+    "contributors": [],
+    "scripts": {
+        "start": "node main"
+    },
+    "dependencies": {
+        "express": "4.16.3",
+        "websocket": "1.0.25"
+    }
+}
